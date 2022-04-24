@@ -1,7 +1,8 @@
 name: steps_widget
-description: A steps widget
-version: 0.0.1
-homepage:
+description: Tracking order or journey with custom color and text styles.
+version: 0.0.3
+author: Umer Javaid
+homepage: https://github.com/umerjavaidkh/tracking_widget
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
