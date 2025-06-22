@@ -41,6 +41,11 @@ Track(isActive: false, labelText: "Fulfilled"),
 )
 ```
 
+https://pub.dev/packages/steps_widget
+
+<img width="1310" alt="image" src="https://github.com/user-attachments/assets/6b3ff5f2-1a6c-4207-8c9d-b8e69b1692ca" />
+
+
 ## Additional information
 
 Widget main class is TrackingWidget. Two type Horizontal or Vertical.
